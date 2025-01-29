@@ -1,0 +1,3 @@
+[submodule "lxconsole"]
+	path = lxconsole
+	url = https://github.com/PenningLabs/lxconsole.git
